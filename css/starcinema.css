@@ -1,3 +1,13 @@
+body{
+  background: url('../images/o-DARK-SKY-WEEK-facebook.jpg') no-repeat center center fixed!important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /* background-color:#3333!important; */
+
+}
+
 h1{
   font-size: 60px!important;
   font-family: Brush Script MT, Brush Script Std, cursive!important;
