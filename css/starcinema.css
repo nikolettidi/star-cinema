@@ -12,6 +12,7 @@ h1{
   font-size: 60px!important;
   font-family: Brush Script MT, Brush Script Std, cursive!important;
   color: rgb(210, 82, 127)!important;
+  text-align: center
 }
 
 
@@ -39,6 +40,15 @@ ul{
   color: white!important;
 }
 
-h4{
+h3{
   color:white;
+  text-align: center
+}
+
+
+
+.row menu{
+  text-align: center
+
+}
 }
