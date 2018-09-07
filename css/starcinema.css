@@ -7,17 +7,25 @@ body{
   /* background-color:#3333!important; */
 
 }
+p{
+  font-size: 15px;
+}
+.banner{
+  text-align: center;
+}
 
 h1{
-  font-size: 60px!important;
+  font-size: 90px!important;
   font-family: Brush Script MT, Brush Script Std, cursive!important;
   color: rgb(210, 82, 127)!important;
   text-align: center
+
 }
 
 
 h3{
   color: white!important;
+  padding: 70px 0 40px 0!important;
 }
 
 .topnav button{
@@ -27,9 +35,12 @@ h3{
   color:#fff;
 }
 
-
-img {
+img{
   height:350px;
+  }
+
+.row{
+  margin-left: 100px;
 }
 
 p{
@@ -38,11 +49,41 @@ p{
 
 ul{
   color: white!important;
+
+}
+
+.tade{
+background-color: white;
 }
 
 h3{
-  color:white;
-  text-align: center
+  color:rgb(27, 163, 156)!important;
+  text-align: center;
 }
+
+.navbar a{
+  color: rgb(210, 82, 127)!important;
+}
+
+h2{
+  color:rgb(27, 163, 156)!important;
+  size: 20px;
+  text-align: center;
+}
+
+
+h4{
+  color:white!important;
+}
+footer .list-unstyled a{
+  color: #fff;
+  font-size: 14px;
+}
+footer .list-unstyled li{
+  display: inline-block;
+}
+footer .footer-copyright{
+  color: #fff;
+  font-size: 14px;
 
 }
